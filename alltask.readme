@@ -1,0 +1,27 @@
+1. Write a program to input an array, then display its elements.
+
+2. Reverse the elements of an array and display them.
+
+3. Calculate the sum of all elements in an array.
+
+4. Copy one array to another and display both.
+
+5. Find and print the maximum element in an array.
+
+6. Find and print the minimum element in an array.
+
+7. Count the duplicate numbers in an array.
+
+8. Print the unique elements from an array.
+
+9. Delete a specified element from an array.
+
+10. Delete an element at a specified position in an array.
+
+11. Print all even numbers from array.
+
+12. Count and print the number of odd numbers in array.
+
+13. Compare two matrices and check if they are equal.
+
+14. Find the sum of diagonal elements in a square matrix(2D)
